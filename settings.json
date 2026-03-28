@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "fuash.aternos.me:13079",
+    "port": 13079,
     "version": "",
     "try-creative": false
   },
