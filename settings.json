@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fuash.aternos.me:13079",
+    "ip": "fuash.aternos.me",
     "port": 13079,
     "version": "",
     "try-creative": false
